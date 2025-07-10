@@ -10,6 +10,14 @@
     "wdth" 100;
 }
 
+
+.inter-font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
 /* banner content */
 
 .header-container{
@@ -46,4 +54,47 @@
     width: 632px;
     height: 190px;
     margin-top: 16px;
+}
+
+/* main content */
+
+.section1-container{
+    width: 802.9px;
+    height: 806px;
+    max-width: 1460px;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.section1-content1{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+    text-align: center;
+}
+
+.section1-content2{
+    width: 802.9px;
+    height: 651px;
+    margin-top: 48px;
+}
+
+.section1-content2-paragraph1{
+    font-size: 24px;
+    font-weight: 400px;
+    color: #FF0000;
+    text-align: center;
+}
+
+.section1-content2-paragraph2{
+    font-size: 48px;
+    font-weight: bold;
+    color: #070211;
+    text-align: center;
+}
+
+.section1-content2-image1{
+    width: 802.9px;
+    height: 500px;
+    position: 339px 770px;
 }
