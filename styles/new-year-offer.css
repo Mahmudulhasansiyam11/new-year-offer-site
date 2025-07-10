@@ -58,6 +58,7 @@
 
 /* main content */
 
+/* section1 */
 .section1-container{
     width: 802.9px;
     height: 806px;
@@ -97,4 +98,64 @@
     width: 802.9px;
     height: 500px;
     position: 339px 770px;
+}
+
+/* section2 */
+
+.section2-container{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    max-width: 1460px;
+    margin: 0 auto;
+    margin-top: 270px;
+}
+
+.section2-content{
+    width: 1320px;
+    height: 600px;
+    position: 140px 50px;
+}
+
+.section2-content-container{
+    display: flex;
+}
+
+.section2-content1-paragraph1{
+    position: 266px 1822px;
+    width: 642px;
+    height: 176px;
+    font-size: 64px;
+    font-weight: black;
+    color: #FFFFFF;
+    margin-left: 126px;
+    margin-top: 126px;
+}
+
+.section2-content1-paragraph2{
+    position: 266px 2022px;
+    width: 697px;
+    height: 60px;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 126px;
+    margin-top: 10px;
+}
+
+.section2-content1-paragraph3{
+    position: 298px 2130px;
+    width: 103px;
+    height: 24px;
+    color: #FFFFFF;
+    margin-left: 158px;
+    margin-top: 20px;
+}
+
+.section2-content2{
+    position: 1000px 1750px;
+    width: 320px;
+    height: 460px;
+    margin-top: 68px;
+    margin-right: 138px;
+    margin-bottom: 67px;
+    margin-left: 40px;
 }
